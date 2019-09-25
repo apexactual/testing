@@ -1,273 +1,967 @@
 #EXTM3U
+#EXTINF:-1,USA | A&E
+http://shacktv.com:8080/live/Lazaro/Lazaro123/117.m3u8
+#EXTINF:-1,USA | A&E HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/246.m3u8
+#EXTINF:-1,USA | ABC NY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/245.m3u8
+#EXTINF:-1,USA | ABC NEWS HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/244.m3u8
+#EXTINF:-1,USA | ABC NY FHD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/102.m3u8
+#EXTINF:-1,USA | ABC Spark HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/243.m3u8
+#EXTINF:-1,USA | AMC
+http://shacktv.com:8080/live/Lazaro/Lazaro123/121.m3u8
+#EXTINF:-1,USA | AMERICAN HEROES CHANNEL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/123.m3u8
+#EXTINF:-1,USA | ANIMAL PLANET HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/160.m3u8
+#EXTINF:-1,USA | ANTENNA TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/101.m3u8
+#EXTINF:-1,USA | BBC America HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/241.m3u8
+#EXTINF:-1,USA | BEIN SPORTS HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/171.m3u8
+#EXTINF:-1,USA | BET
+http://shacktv.com:8080/live/Lazaro/Lazaro123/100.m3u8
+#EXTINF:-1,USA | BET HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/181.m3u8
+#EXTINF:-1,USA | BET HER
+http://shacktv.com:8080/live/Lazaro/Lazaro123/83.m3u8
+#EXTINF:-1,USA | BIG TEN NETWORK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/240.m3u8
+#EXTINF:-1,USA | BLOOMBERG HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/239.m3u8
+#EXTINF:-1,USA | BOOMERANG HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/180.m3u8
+#EXTINF:-1,USA | BRAVO HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/238.m3u8
+#EXTINF:-1,USA | BTN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/237.m3u8
+#EXTINF:-1,USA | CARTOON NETWORK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/233.m3u8
+#EXTINF:-1,USA | CBSN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/232.m3u8
+#EXTINF:-1,USA | CBS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/158.m3u8
+#EXTINF:-1,USA | CBS NY FHD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/99.m3u8
+#EXTINF:-1,USA | CBS SPORTS NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/230.m3u8
+#EXTINF:-1,USA | CINEMAX HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/229.m3u8
+#EXTINF:-1,USA | CINEMAX MOREMAX HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/228.m3u8
+#EXTINF:-1,USA | CINEMAX THRILLERMAX HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/227.m3u8
+#EXTINF:-1,USA | CMT HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/179.m3u8
+#EXTINF:-1,USA | CNBC HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/170.m3u8
+#EXTINF:-1,USA | CNN
+http://shacktv.com:8080/live/Lazaro/Lazaro123/98.m3u8
+#EXTINF:-1,USA | CNN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/157.m3u8
+#EXTINF:-1,USA | COMEDY CENTRAL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/226.m3u8
+#EXTINF:-1,USA | COOKING CHANNEL HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/178.m3u8
+#EXTINF:-1,USA | COZI TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/126.m3u8
+#EXTINF:-1,USA | CRIME & INVESTIGATION HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/177.m3u8
+#EXTINF:-1,USA | CW HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/225.m3u8
+#EXTINF:-1,USA | DESTINATION AMERICA
+http://shacktv.com:8080/live/Lazaro/Lazaro123/224.m3u8
+#EXTINF:-1,USA | DISCOVERY FAMILY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/140.m3u8
+#EXTINF:-1,USA | DISCOVERY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/156.m3u8
+#EXTINF:-1,USA | DISCOVERY SCIENCE HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/155.m3u8
+#EXTINF:-1,USA | DISCOVERY VELOCITY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/223.m3u8
+#EXTINF:-1,USA | Disney HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/154.m3u8
+#EXTINF:-1,USA | DISNEY JR HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/176.m3u8
+#EXTINF:-1,USA | DISNEY XD HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/175.m3u8
+#EXTINF:-1,USA | CARTOON NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61098.m3u8
+#EXTINF:-1,USA | DIY NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/153.m3u8
+#EXTINF:-1,USA | E! HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/222.m3u8
+#EXTINF:-1,USA | ELEVEN SPORTS HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/221.m3u8
+#EXTINF:-1,USA | EPIX FHD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/219.m3u8
+#EXTINF:-1,USA | FISH CHANNEL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105783.m3u8
+#EXTINF:-1,USA | FUBOCYCLING
+http://shacktv.com:8080/live/Lazaro/Lazaro123/111033.m3u8
+#EXTINF:-1,USA | ESPN
+http://shacktv.com:8080/live/Lazaro/Lazaro123/120.m3u8
+#EXTINF:-1,USA | ESPN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/168.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://shacktv.com:8080/live/Lazaro/Lazaro123/90.m3u8
+#EXTINF:-1,USA | ESPN 2 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/169.m3u8
+#EXTINF:-1,USA | ESPN NEWS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/122.m3u8
+#EXTINF:-1,USA | ESPN U HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/166.m3u8
+#EXTINF:-1,USA | Food Network HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/152.m3u8
+#EXTINF:-1,USA | FOX 5 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/95.m3u8
+#EXTINF:-1,USA | FOX BUSINESS NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/217.m3u8
+#EXTINF:-1,USA | FOX COLLEGE SPORTS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/218.m3u8
+#EXTINF:-1,USA | FOX HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/151.m3u8
+#EXTINF:-1,USA | FOX NEWS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/165.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/216.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/215.m3u8
+#EXTINF:-1,USA | FREEFORM HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/214.m3u8
+#EXTINF:-1,USA | FUSION HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/213.m3u8
+#EXTINF:-1,USA | FX HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/150.m3u8
+#EXTINF:-1,USA | FXX HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/149.m3u8
+#EXTINF:-1,USA | GOLF HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/212.m3u8
+#EXTINF:-1,USA | GSN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/211.m3u8
+#EXTINF:-1,USA | H2
+http://shacktv.com:8080/live/Lazaro/Lazaro123/210.m3u8
+#EXTINF:-1,USA | HGTV FHD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/89.m3u8
+#EXTINF:-1,USA | HGTV HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/209.m3u8
+#EXTINF:-1,USA | HISTORY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/142.m3u8
+#EXTINF:-1,USA | HSN
+http://shacktv.com:8080/live/Lazaro/Lazaro123/125.m3u8
+#EXTINF:-1,USA | ID HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/208.m3u8
+#EXTINF:-1,USA | INVESTIGATION DISCOVERY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/116.m3u8
+#EXTINF:-1,USA | ION TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/115.m3u8
+#EXTINF:-1,USA | LIFETIME HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/148.m3u8
+#EXTINF:-1,USA | LIFETIME MOVIES HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/207.m3u8
+#EXTINF:-1,USA | MAV TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/127.m3u8
+#EXTINF:-1,USA | MLB NETWORK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/206.m3u8
+#EXTINF:-1,USA | MSNBC HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/147.m3u8
+#EXTINF:-1,USA | MTV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/119.m3u8
+#EXTINF:-1,USA | MTV HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/174.m3u8
+#EXTINF:-1,USA | MTVLive HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/173.m3u8
+#EXTINF:-1,USA | MY 9
+http://shacktv.com:8080/live/Lazaro/Lazaro123/93.m3u8
+#EXTINF:-1,USA | NAT GEO HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/205.m3u8
+#EXTINF:-1,USA | NAT GEO WILD HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/146.m3u8
+#EXTINF:-1,USA | NAT GEO WILD HD US
+http://shacktv.com:8080/live/Lazaro/Lazaro123/87.m3u8
+#EXTINF:-1,USA | NBA TV HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/145.m3u8
+#EXTINF:-1,USA | NBC 4 NY FHD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/106.m3u8
+#EXTINF:-1,USA | NBC HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/164.m3u8
+#EXTINF:-1,USA | NBCSN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/163.m3u8
+#EXTINF:-1,USA | NFL NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/204.m3u8
+#EXTINF:-1,USA | NFL NOW HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/203.m3u8
+#EXTINF:-1,USA | NFL REDZONE HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/135.m3u8
+#EXTINF:-1,USA | NHL NETWORK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/92.m3u8
+#EXTINF:-1,USA | NHL NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/202.m3u8
+#EXTINF:-1,USA | NICK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/201.m3u8
+#EXTINF:-1,USA | NICK JR
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104.m3u8
+#EXTINF:-1,USA | NICK JR HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/200.m3u8
+#EXTINF:-1,USA | NICKTOONS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/199.m3u8
+#EXTINF:-1,USA | OWN HD (OPRAH WINFRY NETWORK)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/144.m3u8
+#EXTINF:-1,USA | OXYGEN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/197.m3u8
+#EXTINF:-1,USA | PAC-12 (ARIZONA) HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/134.m3u8
+#EXTINF:-1,USA | PAC-12 (BAY AREA) HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/133.m3u8
+#EXTINF:-1,USA | PAC-12 (LOS ANGELES) HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/132.m3u8
+#EXTINF:-1,USA | PAC-12 (NETWORK) HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/130.m3u8
+#EXTINF:-1,USA | PAC-12 (OREGON) HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/129.m3u8
+#EXTINF:-1,USA | PAC-12 (WASHINGTON) HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/128.m3u8
+#EXTINF:-1,USA | PBS HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/196.m3u8
+#EXTINF:-1,USA | SEC NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/194.m3u8
+#EXTINF:-1,USA | SHOWTIME HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/91.m3u8
+#EXTINF:-1,USA | SPORTSNET NY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/103.m3u8
+#EXTINF:-1,USA | SUNDANCE HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/172.m3u8
+#EXTINF:-1,USA | SYFY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/193.m3u8
+#EXTINF:-1,USA | TBS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/192.m3u8
+#EXTINF:-1,USA | TCM
+http://shacktv.com:8080/live/Lazaro/Lazaro123/96.m3u8
+#EXTINF:-1,USA | TENNIS HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/191.m3u8
+#EXTINF:-1,USA | THE TRAVEL CHANNEL HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/190.m3u8
+#EXTINF:-1,USA | TLC HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/143.m3u8
+#EXTINF:-1,USA | TLC USA
+http://shacktv.com:8080/live/Lazaro/Lazaro123/84.m3u8
+#EXTINF:-1,USA | TNT HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/189.m3u8
+#EXTINF:-1,USA | TRU TV HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/188.m3u8
+#EXTINF:-1,USA | TV LAND HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/187.m3u8
+#EXTINF:-1,USA | TV ONE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/114.m3u8
+#EXTINF:-1,USA | UNIVERSAL KIDS HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/186.m3u8
+#EXTINF:-1,USA | USA NETWORK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/185.m3u8
+#EXTINF:-1,USA | VELOCITY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/141.m3u8
+#EXTINF:-1,USA | VH1 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/184.m3u8
+#EXTINF:-1,USA | VICELAND HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/183.m3u8
+#EXTINF:-1,USA | WE HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/182.m3u8
+#EXTINF:-1,USA | WE TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/109.m3u8
+#EXTINF:-1,USA | WGN AMERICA
+http://shacktv.com:8080/live/Lazaro/Lazaro123/113.m3u8
+#EXTINF:-1,USA | WPIX 11 NY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107.m3u8
+#EXTINF:-1,USA | WWE NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/162.m3u8
+#EXTINF:-1,USA | YES NETWORK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/86.m3u8
+#EXTINF:-1,USA | CINEMAX ACTION MAX
+http://shacktv.com:8080/live/Lazaro/Lazaro123/265.m3u8
+#EXTINF:-1,USA | CINEMAX MORE MAX
+http://shacktv.com:8080/live/Lazaro/Lazaro123/267.m3u8
+#EXTINF:-1,USA | Hallmark HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/250.m3u8
+#EXTINF:-1,USA | HALLMARK MOVIES & MYSTERIES HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/259.m3u8
+#EXTINF:-1,USA | HBO COMEDY HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/258.m3u8
+#EXTINF:-1,USA | HBO FAMILY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/257.m3u8
+#EXTINF:-1,USA | HBO HD EAST
+http://shacktv.com:8080/live/Lazaro/Lazaro123/249.m3u8
+#EXTINF:-1,USA | HBO HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/248.m3u8
+#EXTINF:-1,USA | HBO HD 1
+http://shacktv.com:8080/live/Lazaro/Lazaro123/263.m3u8
+#EXTINF:-1,USA | HBO WEST HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/262.m3u8
+#EXTINF:-1,USA | HBO SIGNATURE HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/256.m3u8
+#EXTINF:-1,USA | HBO ZONE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/247.m3u8
+#EXTINF:-1,USA | MOREMAX HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/251.m3u8
+#EXTINF:-1,USA | SHOWTIME
+http://shacktv.com:8080/live/Lazaro/Lazaro123/252.m3u8
+#EXTINF:-1,USA | SHOWTIME EXTREME
+http://shacktv.com:8080/live/Lazaro/Lazaro123/266.m3u8
+#EXTINF:-1,USA | SHOWTIME FAMILY ZONE HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/261.m3u8
+#EXTINF:-1,USA | SPIKE/PARAMOUNT HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/255.m3u8
+#EXTINF:-1,USA | STARZ EAST
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61169.m3u8
+#EXTINF:-1,USA | STARZ COMEDY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/253.m3u8
+#EXTINF:-1,USA | STARZ EDGE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/260.m3u8
+#EXTINF:-1,USA | STARZ KIDS FAMILY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/254.m3u8
+#EXTINF:-1,USA | FOX SPORTS ARIZONA HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61138.m3u8
+#EXTINF:-1,USA | FOX SPORTS DETROIT HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61137.m3u8
+#EXTINF:-1,USA | FOX SPORTS FLORIDA HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61136.m3u8
+#EXTINF:-1,USA | FOX SPORTS MIDWEST HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61135.m3u8
+#EXTINF:-1,USA | FOX SPORTS NORTH HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61134.m3u8
+#EXTINF:-1,USA | FOX SPORTS OHIO HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61133.m3u8
+#EXTINF:-1,USA | FOX SPORTS PRIME TICKET HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61132.m3u8
+#EXTINF:-1,USA | FOX SPORTS SAN DIEGO HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61131.m3u8
+#EXTINF:-1,USA | FOX SPORTS SOUTH HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61130.m3u8
+#EXTINF:-1,USA | FOX SPORTS SOUTHWEST HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61129.m3u8
+#EXTINF:-1,USA | FOX SPORTS SUN HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61128.m3u8
+#EXTINF:-1,USA | FOX SPORTS WEST HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61127.m3u8
+#EXTINF:-1,USA | LONGHORN NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61112.m3u8
+#EXTINF:-1,USA | NBC SPORTS BAY AREA HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61120.m3u8
+#EXTINF:-1,USA | NBC SPORTS BOSTON HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61119.m3u8
+#EXTINF:-1,USA | NBC SPORTS CALIFORNIA HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61118.m3u8
+#EXTINF:-1,USA | NBC SPORTS CHICAGO HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61117.m3u8
+#EXTINF:-1,USA | NBC SPORTS NETWORK HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61116.m3u8
+#EXTINF:-1,USA | NBC SPORTS NORTHWEST HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61115.m3u8
+#EXTINF:-1,USA | NBC SPORTS PHILADELPHIA HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61114.m3u8
+#EXTINF:-1,USA | FOX COLLEGE ATLANTIC
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107382.m3u8
+#EXTINF:-1,USA | FOX COLLEGE CENTRAL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107381.m3u8
+#EXTINF:-1,USA | FOX COLLEGE PACIFIC
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107380.m3u8
+#EXTINF:-1,MUSIC | ALTERNATIVE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105019.m3u8
+#EXTINF:-1,MUSIC | BRITS HITS NEWS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105002.m3u8
+#EXTINF:-1,MUSIC | Y2K
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105000.m3u8
+#EXTINF:-1,MUSIC | COUNTRY POP
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105020.m3u8
+#EXTINF:-1,MUSIC | DANCE/EDM
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105015.m3u8
+#EXTINF:-1,MUSIC | HIPHOP
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105012.m3u8
+#EXTINF:-1,MUSIC | HIT LIST
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105024.m3u8
+#EXTINF:-1,MUSIC | INDIE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105013.m3u8
+#EXTINF:-1,MUSIC | MC PLAY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105025.m3u8
+#EXTINF:-1,MUSIC | METAL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105006.m3u8
+#EXTINF:-1,MUSIC | MEXICO GRUPERAS CHANNEL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105011.m3u8
+#EXTINF:-1,MUSIC | URBANO-LATINO
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105014.m3u8
+#EXTINF:-1,MUSIC | POP & COUNTRY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105010.m3u8
+#EXTINF:-1,MUSIC | POP HITS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105009.m3u8
+#EXTINF:-1,MUSIC | POP LATINO
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105018.m3u8
+#EXTINF:-1,MUSIC | POP NEWS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105005.m3u8
+#EXTINF:-1,MUSIC | R B SOUL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105017.m3u8
+#EXTINF:-1,MUSIC | RAP 2K
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105004.m3u8
+#EXTINF:-1,MUSIC | RAP HITS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105016.m3u8
+#EXTINF:-1,MUSIC | REGETON HIP HOP POP TROPICAL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105008.m3u8
+#EXTINF:-1,MUSIC | ROCK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105007.m3u8
+#EXTINF:-1,MUSIC | TENN BEST
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105022.m3u8
+#EXTINF:-1,MUSIC | THROWBACK HIP HOP JAMZ
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105003.m3u8
+#EXTINF:-1,MUSIC | TODAY'S COUNTRY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105021.m3u8
+#EXTINF:-1,MUSIC | TODDLER TUNES
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105001.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104701.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104700.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104699.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104698.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104697.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104696.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104695.m3u8
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104694.m3u8
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104693.m3u8
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104692.m3u8
+#EXTINF:-1,NEWS | AL JAZEERA
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105031.m3u8
+#EXTINF:-1,NEWS | ARIRANG TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105029.m3u8
+#EXTINF:-1,NEWS | BLOOMBERG TV ASIA
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105035.m3u8
+#EXTINF:-1,NEWS | BLOOMBERG TV UK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105037.m3u8
+#EXTINF:-1,NEWS | BLOOMBERG TV US
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105043.m3u8
+#EXTINF:-1,NEWS | CBS NEWS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105041.m3u8
+#EXTINF:-1,NEWS | FRANCE 24
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105033.m3u8
+#EXTINF:-1,NEWS | NEWSMAXTV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105030.m3u8
+#EXTINF:-1,NEWS | NHK WORLD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105028.m3u8
+#EXTINF:-1,NEWS | RT UK
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105036.m3u8
+#EXTINF:-1,NEWS | RT US
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105042.m3u8
+#EXTINF:-1,NEWS | THE WEATHER CHANNEL
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105039.m3u8
+#EXTINF:-1,NEWS | TRT WORLD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105034.m3u8
+#EXTINF:-1,NEWS | WEATHERNATION
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105038.m3u8
+#EXTINF:-1,NEWS | WGN NEWS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105040.m3u8
+#EXTINF:-1,NEWS | CBS 4 NEWS (INDIANAPOLIS)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61165.m3u8
+#EXTINF:-1,NEWS | Fox 5 NEWS (WASHINTON DC)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61164.m3u8
+#EXTINF:-1,NEWS | KOB 4 NEWS (SANTA FE)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61163.m3u8
+#EXTINF:-1,NEWS | NBC 10 NEWS (PHILADELPHIA)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61162.m3u8
+#EXTINF:-1,NEWS | NBC 11 NEWS (BAY AREA)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61161.m3u8
+#EXTINF:-1,NEWS | NBC 5 NEWS (CHICAGO)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61160.m3u8
+#EXTINF:-1,NEWS | NBC NEWS 13 (ALBANY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61159.m3u8
+#EXTINF:-1,NEWS | WCCB NEWS (CHARLOTTE)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61158.m3u8
+#EXTINF:-1,NEWS | WGN 9 NEWS (CHICAGO)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61157.m3u8
+#EXTINF:-1,NEWS | WGN NEWS CHICAGO (USA)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61156.m3u8
+#EXTINF:-1,NEWS | WVIT 30 NEWS (HARTFORD)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61155.m3u8
+#EXTINF:-1,NEWS | WXXV NEWS 25 (MISSISSIPPI)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61154.m3u8
+#EXTINF:-1,NEWS | NEWS 12 BRONX
+http://shacktv.com:8080/live/Lazaro/Lazaro123/111031.m3u8
+#EXTINF:-1,NEWS | NEWS 12 BROOKLYN
+http://shacktv.com:8080/live/Lazaro/Lazaro123/111030.m3u8
+#EXTINF:-1,NEWS | NEWS 12 CONNECTICUT
+http://shacktv.com:8080/live/Lazaro/Lazaro123/111028.m3u8
+#EXTINF:-1,NEWS | NEWS 12 HUDSON VALLEY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/111029.m3u8
+#EXTINF:-1,NEWS | NEWS 12 LONG ISLAND
+http://shacktv.com:8080/live/Lazaro/Lazaro123/111032.m3u8
+#EXTINF:-1,NEWS | NEWS 12 NEW JERSEY
+http://shacktv.com:8080/live/Lazaro/Lazaro123/111027.m3u8
+#EXTINF:-1,PPV | WORKING ONLY ON EVENTS # 1
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105351.m3u8
+#EXTINF:-1,PPV | WORKING ONLY ON EVENTS # 2
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61016.m3u8
+#EXTINF:-1,PPV | WORKING ONLY ON EVENTS # 3
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61166.m3u8
+#EXTINF:-1,PPV | WORKING ONLY ON EVENTS # 4
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61063.m3u8
+#EXTINF:-1,PPV | WORKING ONLY ON EVENTS # 5
+http://shacktv.com:8080/live/Lazaro/Lazaro123/104495.m3u8
+#EXTINF:-1,PPV | DAZN - ONLY ON EVENTS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/115399.m3u8
+#EXTINF:-1,PPV UFC Fight Pass
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61167.m3u8
+#EXTINF:-1,PPV UK BOXING LIVE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61064.m3u8
+#EXTINF:-1,NFL | RED ZONE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/105533.m3u8
+#EXTINF:-1,NHL | CENTER ICE 1
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107390.m3u8
+#EXTINF:-1,NHL | CENTER ICE 2
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107389.m3u8
+#EXTINF:-1,NHL | CENTER ICE 3
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107388.m3u8
+#EXTINF:-1,NHL | CENTER ICE 4
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107387.m3u8
+#EXTINF:-1,NHL | CENTER ICE 5
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107386.m3u8
+#EXTINF:-1,NHL | CENTER ICE 6
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107385.m3u8
+#EXTINF:-1,NHL | CENTER ICE 7
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107384.m3u8
+#EXTINF:-1,NHL | CENTER ICE 8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107383.m3u8
+#EXTINF:-1,CA | SPORTSNET 360
+http://shacktv.com:8080/live/Lazaro/Lazaro123/459.m3u8
+#EXTINF:-1,CA | SPORTSNET EAST
+http://shacktv.com:8080/live/Lazaro/Lazaro123/458.m3u8
+#EXTINF:-1,CA | SPORTSNET ONE
+http://shacktv.com:8080/live/Lazaro/Lazaro123/457.m3u8
+#EXTINF:-1,CA | SPORTSNET ONTARIO
+http://shacktv.com:8080/live/Lazaro/Lazaro123/456.m3u8
+#EXTINF:-1,CA | SPORTSNET PACIFIC
+http://shacktv.com:8080/live/Lazaro/Lazaro123/455.m3u8
+#EXTINF:-1,CA | SPORTSNET WEST
+http://shacktv.com:8080/live/Lazaro/Lazaro123/454.m3u8
+#EXTINF:-1,CA | TSN 1
+http://shacktv.com:8080/live/Lazaro/Lazaro123/452.m3u8
+#EXTINF:-1,CA | TSN 2
+http://shacktv.com:8080/live/Lazaro/Lazaro123/451.m3u8
+#EXTINF:-1,CA | TSN 3
+http://shacktv.com:8080/live/Lazaro/Lazaro123/450.m3u8
+#EXTINF:-1,CA | TSN 4
+http://shacktv.com:8080/live/Lazaro/Lazaro123/449.m3u8
+#EXTINF:-1,CA | TSN 5
+http://shacktv.com:8080/live/Lazaro/Lazaro123/448.m3u8
 #EXTINF:-1,UK | &TV HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21726.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21726.m3u8
 #EXTINF:-1,UK | ALIBI HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21775.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21775.m3u8
 #EXTINF:-1,UK | AMC HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21684.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21684.m3u8
 #EXTINF:-1,UK | ANIMAL PLANET FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21676.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21676.m3u8
 #EXTINF:-1,UK | ANIMAL PLANET HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21774.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21774.m3u8
 #EXTINF:-1,UK | BBC 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21772.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21772.m3u8
 #EXTINF:-1,UK | BBC 1 NORTHERN IRELAND HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21727.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21727.m3u8
 #EXTINF:-1,UK | BBC 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21771.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21771.m3u8
 #EXTINF:-1,UK | BBC 3 / CBBC HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21770.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21770.m3u8
 #EXTINF:-1,UK | BBC 4 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21769.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21769.m3u8
 #EXTINF:-1,UK | BBC CBBC HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21773.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21773.m3u8
 #EXTINF:-1,UK | BBC NEWS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21767.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21767.m3u8
 #EXTINF:-1,UK | BBC ONE SCOTLAND HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21725.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21725.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21694.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21694.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 10 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21685.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21685.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21693.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21693.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 3 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21692.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21692.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 4 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21691.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21691.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 5 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21690.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21690.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 6 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21689.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21689.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 7 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21688.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21688.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 8 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21687.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21687.m3u8
 #EXTINF:-1,UK | BBC RED BUTTON 9 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21686.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21686.m3u8
 #EXTINF:-1,UK | BLAZE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21675.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21675.m3u8
 #EXTINF:-1,UK | BLOOMBERG HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21782.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21782.m3u8
 #EXTINF:-1,UK | BOXNATION HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21700.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21700.m3u8
 #EXTINF:-1,UK | BT SPORTS 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21821.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21821.m3u8
 #EXTINF:-1,UK | BT SPORTS 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21820.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21820.m3u8
 #EXTINF:-1,UK | BT SPORTS 3 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21819.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21819.m3u8
 #EXTINF:-1,UK | BT SPORTS ESPN HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21818.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21818.m3u8
 #EXTINF:-1,UK | BT SPORTS EXTRA 1
-http://shacktv.com:8080/live/Chuck1/Chuck123/21817.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21817.m3u8
 #EXTINF:-1,UK | BT SPORTS EXTRA 2
-http://shacktv.com:8080/live/Chuck1/Chuck123/21816.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21816.m3u8
 #EXTINF:-1,UK | BT SPORTS EXTRA 3
-http://shacktv.com:8080/live/Chuck1/Chuck123/21815.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21815.m3u8
 #EXTINF:-1,UK | BT SPORTS EXTRA 4
-http://shacktv.com:8080/live/Chuck1/Chuck123/21814.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21814.m3u8
 #EXTINF:-1,UK | BT SPORTS EXTRA 5
-http://shacktv.com:8080/live/Chuck1/Chuck123/21813.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21813.m3u8
 #EXTINF:-1,UK | BT SPORTS FHD 1
-http://shacktv.com:8080/live/Chuck1/Chuck123/21812.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21812.m3u8
 #EXTINF:-1,UK | BT SPORTS FHD 2
-http://shacktv.com:8080/live/Chuck1/Chuck123/21811.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21811.m3u8
 #EXTINF:-1,UK | BT SPORTS FHD 3
-http://shacktv.com:8080/live/Chuck1/Chuck123/21810.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21810.m3u8
 #EXTINF:-1,UK | CARTOON NETWORK HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21766.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21766.m3u8
 #EXTINF:-1,UK | CBEEBIES HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21768.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21768.m3u8
 #EXTINF:-1,UK | CHANNEL 4 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21765.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21765.m3u8
 #EXTINF:-1,UK | CHANNEL 5 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21764.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21764.m3u8
 #EXTINF:-1,UK | CHELSEA TV HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21776.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21776.m3u8
 #EXTINF:-1,UK | CI HD (crime and investigation)
-http://shacktv.com:8080/live/Chuck1/Chuck123/21781.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21781.m3u8
 #EXTINF:-1,UK | CNN HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21763.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21763.m3u8
 #EXTINF:-1,UK | COMEDY CENTRAL FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21682.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21682.m3u8
 #EXTINF:-1,UK | COMEDY CENTRAL HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21762.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21762.m3u8
 #EXTINF:-1,UK | DAVE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21761.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21761.m3u8
 #EXTINF:-1,UK | DISCOVERY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21681.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21681.m3u8
 #EXTINF:-1,UK | DISCOVERY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21760.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21760.m3u8
 #EXTINF:-1,UK | DISNEY CHANNEL HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21780.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21780.m3u8
 #EXTINF:-1,UK | DISNEY JUNIOR HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21697.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21697.m3u8
 #EXTINF:-1,UK | DISNEY XD HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21698.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21698.m3u8
 #EXTINF:-1,UK | E4 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21759.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21759.m3u8
 #EXTINF:-1,UK | EDEN HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21758.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21758.m3u8
 #EXTINF:-1,UK | EUROSPORTS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21731.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21731.m3u8
 #EXTINF:-1,UK | EUROSPORTS HD 2
-http://shacktv.com:8080/live/Chuck1/Chuck123/21730.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21730.m3u8
 #EXTINF:-1,UK | FILM 4 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21757.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21757.m3u8
 #EXTINF:-1,UK | FOX HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21756.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21756.m3u8
 #EXTINF:-1,UK | GOOD FOOD HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21755.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21755.m3u8
 #EXTINF:-1,UK | HISTORY 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21754.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21754.m3u8
 #EXTINF:-1,UK | HISTORY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21673.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21673.m3u8
 #EXTINF:-1,UK | HISTORY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21721.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21721.m3u8
 #EXTINF:-1,UK | ITV BE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21753.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21753.m3u8
 #EXTINF:-1,UK | ITV HD 1
-http://shacktv.com:8080/live/Chuck1/Chuck123/21752.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21752.m3u8
 #EXTINF:-1,UK | ITV HD 2
-http://shacktv.com:8080/live/Chuck1/Chuck123/21751.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21751.m3u8
 #EXTINF:-1,UK | ITV HD 3
-http://shacktv.com:8080/live/Chuck1/Chuck123/21750.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21750.m3u8
 #EXTINF:-1,UK | ITV HD 4
-http://shacktv.com:8080/live/Chuck1/Chuck123/21749.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21749.m3u8
 #EXTINF:-1,UK | ITV London HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21723.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21723.m3u8
 #EXTINF:-1,UK | LIFETIME HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21748.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21748.m3u8
 #EXTINF:-1,UK | MORE 4 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21747.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21747.m3u8
 #EXTINF:-1,UK | MTV HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21746.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21746.m3u8
 #EXTINF:-1,UK | MTV LIVE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21745.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21745.m3u8
 #EXTINF:-1,UK | MUTV HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21777.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21777.m3u8
 #EXTINF:-1,UK | NAT GEO HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21744.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21744.m3u8
 #EXTINF:-1,UK | NAT GEO WILD HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21743.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21743.m3u8
 #EXTINF:-1,UK | NICK HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21742.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21742.m3u8
 #EXTINF:-1,UK | RACING UK HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21729.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21729.m3u8
 #EXTINF:-1,UK | RTE ONE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21779.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21779.m3u8
 #EXTINF:-1,UK | RTE TWO  HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21778.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21778.m3u8
 #EXTINF:-1,UK | SKY ARTS FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21679.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21679.m3u8
 #EXTINF:-1,UK | SKY ARTS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21696.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21696.m3u8
 #EXTINF:-1,UK | Sky Atlantic HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21783.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21783.m3u8
 #EXTINF:-1,UK | SKY CINEMA ACTION HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21809.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21809.m3u8
 #EXTINF:-1,UK | SKY CINEMA ACTION MEN FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21713.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21713.m3u8
 #EXTINF:-1,UK | SKY CINEMA COMEDY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21712.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21712.m3u8
 #EXTINF:-1,UK | SKY CINEMA COMEDY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21808.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21808.m3u8
 #EXTINF:-1,UK | SKY CINEMA DISNEY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21711.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21711.m3u8
 #EXTINF:-1,UK | SKY CINEMA DISNEY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21807.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21807.m3u8
 #EXTINF:-1,UK | SKY CINEMA DRAMA FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21710.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21710.m3u8
 #EXTINF:-1,UK | SKY CINEMA DRAMA HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21806.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21806.m3u8
 #EXTINF:-1,UK | SKY CINEMA FAMILY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21709.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21709.m3u8
 #EXTINF:-1,UK | SKY CINEMA FAMILY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21805.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21805.m3u8
 #EXTINF:-1,UK | SKY CINEMA GREATS FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21708.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21708.m3u8
 #EXTINF:-1,UK | SKY CINEMA GREATS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21799.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21799.m3u8
 #EXTINF:-1,UK | SKY CINEMA HEROES HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21804.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21804.m3u8
 #EXTINF:-1,UK | SKY CINEMA HITS FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21707.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21707.m3u8
 #EXTINF:-1,UK | SKY CINEMA HITS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21803.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21803.m3u8
 #EXTINF:-1,UK | SKY CINEMA PREMIER FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21706.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21706.m3u8
 #EXTINF:-1,UK | SKY CINEMA PREMIERE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21802.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21802.m3u8
 #EXTINF:-1,UK | SKY CINEMA SCI-FI HORROR FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21705.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21705.m3u8
 #EXTINF:-1,UK | SKY CINEMA SCI-FI HORROR HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21801.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21801.m3u8
 #EXTINF:-1,UK | SKY CINEMA SELECT FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21704.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21704.m3u8
 #EXTINF:-1,UK | SKY CINEMA THRILLER FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21703.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21703.m3u8
 #EXTINF:-1,UK | SKY CINEMA THRILLER HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21798.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21798.m3u8
 #EXTINF:-1,UK | SKY LIVING HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21740.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21740.m3u8
 #EXTINF:-1,UK | SKY NEWS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21739.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21739.m3u8
 #EXTINF:-1,UK | SKY ONE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21741.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21741.m3u8
 #EXTINF:-1,UK | SKY SPORTS ACTION HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21795.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21795.m3u8
 #EXTINF:-1,UK | SKY SPORTS ARENA HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21716.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21716.m3u8
 #EXTINF:-1,UK | SKY SPORTS CRICKET HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21796.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21796.m3u8
 #EXTINF:-1,UK | SKY SPORTS CRICKET SD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21715.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21715.m3u8
 #EXTINF:-1,UK | SKY SPORTS F1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21792.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21792.m3u8
 #EXTINF:-1,UK | SKY SPORTS FHD ACTION
-http://shacktv.com:8080/live/Chuck1/Chuck123/21789.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21789.m3u8
 #EXTINF:-1,UK | SKY SPORTS FHD ARENA
-http://shacktv.com:8080/live/Chuck1/Chuck123/21718.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21718.m3u8
 #EXTINF:-1,UK | SKY SPORTS FHD CRICKET
-http://shacktv.com:8080/live/Chuck1/Chuck123/21790.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21790.m3u8
 #EXTINF:-1,UK | SKY SPORTS F1 FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21786.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21786.m3u8
 #EXTINF:-1,UK | SKY SPORTS FHD FOOTBALL
-http://shacktv.com:8080/live/Chuck1/Chuck123/21717.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21717.m3u8
 #EXTINF:-1,UK | SKY SPORTS FHD GOLF
-http://shacktv.com:8080/live/Chuck1/Chuck123/21788.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21788.m3u8
 #EXTINF:-1,UK | SKY SPORTS MAIN EVENT FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21791.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21791.m3u8
 #EXTINF:-1,UK | SKY SPORTS FHD PREMIER LEAGUE
-http://shacktv.com:8080/live/Chuck1/Chuck123/21787.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21787.m3u8
 #EXTINF:-1,UK | SKY SPORTS FOOTBALL HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21714.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21714.m3u8
 #EXTINF:-1,UK | SKY SPORTS GOLF HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21794.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21794.m3u8
 #EXTINF:-1,UK | SKY SPORTS MAIN EVENT HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21797.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21797.m3u8
 #EXTINF:-1,UK | SKY SPORTS MIX HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21785.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21785.m3u8
 #EXTINF:-1,UK | SKY SPORTS NEWS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21784.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21784.m3u8
 #EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21793.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21793.m3u8
 #EXTINF:-1,UK | SYFY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21738.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21738.m3u8
 #EXTINF:-1,UK | TCM FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21674.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21674.m3u8
 #EXTINF:-1,UK | TCM HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21737.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21737.m3u8
 #EXTINF:-1,UK | TLC FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21678.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21678.m3u8
 #EXTINF:-1,UK | TLC HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21702.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21702.m3u8
 #EXTINF:-1,UK | UNIVERSAL FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21677.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21677.m3u8
 #EXTINF:-1,UK | UNIVERSAL HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21736.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21736.m3u8
 #EXTINF:-1,UK | UTV HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21735.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21735.m3u8
 #EXTINF:-1,UK | VICELAND HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21683.m3u8
+http://shacktv.com:8080/live/Lazaro/Lazaro123/21683.m3u8
+#EXTINF:-1,ESPN  | 01 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107267.m3u8
+#EXTINF:-1,ESPN  | 02 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107266.m3u8
+#EXTINF:-1,ESPN  | 03 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107265.m3u8
+#EXTINF:-1,ESPN  | 04 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107264.m3u8
+#EXTINF:-1,ESPN  | 05 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107263.m3u8
+#EXTINF:-1,ESPN  | 06 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107262.m3u8
+#EXTINF:-1,ESPN  | 07 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107261.m3u8
+#EXTINF:-1,ESPN  | 08 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107260.m3u8
+#EXTINF:-1,ESPN  | 09 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107259.m3u8
+#EXTINF:-1,ESPN  | 10 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107258.m3u8
+#EXTINF:-1,ESPN  | 11 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107257.m3u8
+#EXTINF:-1,ESPN  | 12 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107256.m3u8
+#EXTINF:-1,ESPN  | 13 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107255.m3u8
+#EXTINF:-1,ESPN  | 14 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107254.m3u8
+#EXTINF:-1,ESPN  | 15 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107253.m3u8
+#EXTINF:-1,ESPN  | 16 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107252.m3u8
+#EXTINF:-1,ESPN  | 17 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107251.m3u8
+#EXTINF:-1,ESPN  | 18 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107250.m3u8
+#EXTINF:-1,ESPN  | 19 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107249.m3u8
+#EXTINF:-1,ESPN  | 20 (MATCH TIME ONLY)
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107248.m3u8
+#EXTINF:-1,For Adults | Xtsy
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61078.m3u8
+#EXTINF:-1,For Adults | Cento X Cento TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61073.m3u8
+#EXTINF:-1,For Adults | Dorcel TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61074.m3u8
+#EXTINF:-1,For Adults | Dusk TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61072.m3u8
+#EXTINF:-1,For Adults | Hustler FHD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61071.m3u8
+#EXTINF:-1,For Adults | Passione TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61070.m3u8
+#EXTINF:-1,For Adults | Pinko TV
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61069.m3u8
+#EXTINF:-1,For Adults | SEXTREME LA2
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61077.m3u8
+#EXTINF:-1,For Adults | Redlight HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61068.m3u8
+#EXTINF:-1,For Adults | RedLight HD 2
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61076.m3u8
+#EXTINF:-1,For Adults | REALITY KING
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61075.m3u8
+#EXTINF:-1,For Adults | Sct
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61067.m3u8
+#EXTINF:-1,For Adults | SESTO SENSO TV ADULTS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61066.m3u8
+#EXTINF:-1,For Adults | Vivid Touch
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61065.m3u8
+#EXTINF:-1,For Adults | XXX CHANNEL-1-HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61083.m3u8
+#EXTINF:-1,For Adults | PINK EROTIC 4
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61082.m3u8
+#EXTINF:-1,For Adults | SEXT6SENSO
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61081.m3u8
+#EXTINF:-1,For Adults | XXX CHANNEL-4-HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61080.m3u8
+#EXTINF:-1,For Adults | XXX CHANNEL-5-HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/61079.m3u8
+#EXTINF:-1,For Adults | Porn Live FHD  Vivid Red
+http://shacktv.com:8080/live/Lazaro/Lazaro123/2.m3u8
+#EXTINF:-1,For Adults | VENUS
+http://shacktv.com:8080/live/Lazaro/Lazaro123/1.m3u8
+#EXTINF:-1,For Adults | BRAZZERS EU*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107081.m3u8
+#EXTINF:-1,For Adults | CANDY TV*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107066.m3u8
+#EXTINF:-1,For Adults | CENTOXCENTO*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107072.m3u8
+#EXTINF:-1,For Adults | DORCEL TV*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107079.m3u8
+#EXTINF:-1,For Adults | EGOIST*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107056.m3u8
+#EXTINF:-1,For Adults | EROX HD*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107055.m3u8
+#EXTINF:-1,For Adults | FAP TV 2*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107062.m3u8
+#EXTINF:-1,For Adults | FAP TV 3*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107061.m3u8
+#EXTINF:-1,For Adults | FAP TV 4*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107060.m3u8
+#EXTINF:-1,For Adults | HUSTLER HD*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107078.m3u8
+#EXTINF:-1,For Adults | HUSTLER*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107077.m3u8
+#EXTINF:-1,For Adults | JASMIN*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107069.m3u8
+#EXTINF:-1,For Adults | NUART*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107070.m3u8
+#EXTINF:-1,For Adults | OH AH*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107057.m3u8
+#EXTINF:-1,For Adults | OLALA*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107080.m3u8
+#EXTINF:-1,For Adults | PASSION*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107074.m3u8
+#EXTINF:-1,For Adults | PENTHOUSE 1*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107053.m3u8
+#EXTINF:-1,For Adults | PENTHOUSE 2*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107052.m3u8
+#EXTINF:-1,For Adults | PLAYBOY*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107068.m3u8
+#EXTINF:-1,For Adults | PRIVATE TV*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107075.m3u8
+#EXTINF:-1,For Adults | REDLIGHT*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107071.m3u8
+#EXTINF:-1,For Adults | RUSNOCH*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107059.m3u8
+#EXTINF:-1,For Adults | SCT*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107073.m3u8
+#EXTINF:-1,For Adults | SEXTOSENSO*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107076.m3u8
+#EXTINF:-1,For Adults | SHALUN TV*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107054.m3u8
+#EXTINF:-1,For Adults | VIVID RED*
+http://shacktv.com:8080/live/Lazaro/Lazaro123/107063.m3u8
